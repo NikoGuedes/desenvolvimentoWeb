@@ -11,7 +11,7 @@
     "url": "git+https://github.com/AyronLucas/DesenvolvimentoWeb-ADS.git"
   },
   "license": "ISC",
-  "author": "Ayron Lucas",
+  "author": "Nikolas Guedes",
   "type": "module",
   "main": "index.js",
   "scripts": {
